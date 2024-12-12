@@ -11,4 +11,20 @@
     "entraTenantId": "62de5b0b-4b6b-454b-a342-fa89239af5b7",
     "tenantDescription": "Xwift"
  }
+ {
+    "entraTenantId": "ec14396b-5567-41bc-b881-0865b31c10b7",
+    "tenantDescription": "Anaco"
+ }
+ {
+    "entraTenantId": "4c83f722-0578-4ba8-bf37-4fcefc854b9d",
+    "tenantDescription": "MBN"
+ }
+ {
+    "entraTenantId": "57c24134-055f-46fe-9ef5-b1290eed87c3",
+    "tenantDescription": "VRD"
+ }
+ {
+    "entraTenantId": "caae4ce9-7fbc-4036-a31c-87bf12da1f8d",
+    "tenantDescription": "McCann"
+ }
 ]
